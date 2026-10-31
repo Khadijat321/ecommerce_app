@@ -1,4 +1,5 @@
 import 'package:ecommerce_app/widget/bottom_nav_bar.dart';
+import 'package:ecommerce_app/widget/custom_scroll.dart';
 import 'package:flutter/material.dart';
 
 // import 'package:ecommerce_app/provider/value_provider.dart';
@@ -18,6 +19,7 @@ class MyApp extends StatelessWidget {
     //   providers: [ChangeNotifierProvider(create: (_) => ValueProvider())],
     //   child:
     MaterialApp(
+      scrollBehavior: MyCustomScrollBehavior(),
       home: Scaffold(bottomNavigationBar: CustomBottomNav()),
       // );
     );
