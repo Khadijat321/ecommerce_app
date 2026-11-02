@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ecommerce_app/models/product_model.dart';
+import 'package:ecommerce_app/widget/product_details.dart';
 
 class ProductPage extends StatelessWidget{
   const ProductPage({super.key, required this.product});
@@ -9,7 +10,7 @@ class ProductPage extends StatelessWidget{
   Widget build(BuildContext context){
   return
   GestureDetector(
-    onTap:(){Navigator.of(context).push(MaterialPageRoute(builder:(context)=>))},
+    onTap:(){Navigator.of(context).push(MaterialPageRoute(builder:(context)=> ProductDetails(),),);},
   child:Stack(
     children:[
       Container(
@@ -24,7 +25,7 @@ class ProductPage extends StatelessWidget{
           Text('\$${product.price}'),
        Row(
         children:
-        List.generate(product.colors.length,(index)=>Container(decoration:BoxDecoration(color:product.colors[index], shape:BoxShape.circle,) width:20, height:20,)))
+        List.generate(product.colors.length,(index)=>Container(decoration:BoxDecoration(color:product.colors[index], shape:BoxShape.circle,), width:20, height:20,)))
         ]),
         ],),
         ),

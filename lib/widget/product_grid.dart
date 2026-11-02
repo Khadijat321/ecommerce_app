@@ -8,8 +8,9 @@ class Product extends StatelessWidget{
   @override
   Widget build (BuildContext context){
     return GridView.builder(
+
       shrinkWrap:true,
-     gridDelegate:SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount:2),
+     gridDelegate:SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount:2, crossAxisSpacing:20, mainAxisSpacing:20,),
       itemCount:products.length,
       itemBuilder:(contex, index){
         final product = products[index];

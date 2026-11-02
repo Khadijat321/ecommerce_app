@@ -4,7 +4,7 @@ import 'package:ecommerce_app/widget/custom_app_Bar.dart';
 // import 'package:ecommerce_app/core/colors.dart';
 import 'package:ecommerce_app/widget/search_bar.dart';
 import 'package:ecommerce_app/widget/image_slider.dart';
-import 'package:ecommerce_app/widget/product_grid.dart';
+// import 'package:ecommerce_app/widget/product_grid.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
                    TextButton(onPressed:(){}, child: Text('see all', style:TextStyle(fontSize:12,),),)
                 ],),
                 SizedBox(height:20),
-                Product(),
+                // Product(),
               ],
             ),
           ),

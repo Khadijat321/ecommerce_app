@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:ecommerce_app/core/colors.dart';
 
 class CustomBottomNav extends StatefulWidget {
-  const new({super.key});
+  const CustomBottomNav({super.key});
 
   @override
   State<CustomBottomNav> createState() => _CustomBottomNavState();
