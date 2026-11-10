@@ -35,7 +35,7 @@ final List<ProductModel> products = [
     title: 'Infant Cotton Onesie Set',
     description:
         'Soft 100% organic cotton onesie set designed for sensitive skin.',
-    image: 'assets/images/baby_wears.jpg',
+    image: 'assets/images/Merged shoes and more_5.jpg',
     reviewCount: 94,
     seller: 'TinyTots Store',
     price: 24.99,
@@ -49,7 +49,7 @@ final List<ProductModel> products = [
     title: 'Floral Summer Dress',
     description:
         'Lightweight breathable floral dress perfect for warm sunny days.',
-    image: 'assets/images/female_wears.jpeg',
+    image: 'assets/images/Merged shoes and more_21.jpg',
     reviewCount: 210,
     seller: 'Elegance Boutique',
     price: 49.99,
@@ -63,7 +63,7 @@ final List<ProductModel> products = [
     title: 'Classic Denim Jacket',
     description:
         'Durable cotton denim jacket featuring chest pockets and button closures.',
-    image: 'assets/images/male_wears.jpeg',
+    image: 'assets/images/Merged shoes and more_8.jpg',
     reviewCount: 156,
     seller: 'Urban Denim Co.',
     price: 65.00,
@@ -77,7 +77,7 @@ final List<ProductModel> products = [
     title: '18K Gold Plated Necklace',
     description:
         'Minimalist elegant gold chain necklace suitable for daily wear.',
-    image: 'assets/images/jewelry.jpg',
+    image: 'assets/images/Merged shoes and more_7.jpg',
     reviewCount: 88,
     seller: 'Luxe Jewelry',
     price: 89.99,
@@ -91,7 +91,7 @@ final List<ProductModel> products = [
     title: 'Midnight Floral Eau De Parfum',
     description:
         'Long-lasting floral and woody fragrance in a 100ml glass spray bottle.',
-    image: 'assets/images/scents.jpeg',
+    image: 'assets/images/Merged shoes and more_18.jpg',
     reviewCount: 312,
     seller: 'Aroma Essence',
     price: 75.50,
@@ -105,7 +105,7 @@ final List<ProductModel> products = [
     title: 'Lightweight Running Sneakers',
     description:
         'Cushioned sole athletic shoes designed for comfort and performance.',
-    image: 'assets/images/shoes.jpg',
+    image: 'assets/images/Merged shoes and more_1.jpg',
     reviewCount: 180,
     seller: 'Stride Athletics',
     price: 110.00,
@@ -119,7 +119,7 @@ final List<ProductModel> products = [
     title: 'Knitted Baby Beanie & Socks Set',
     description:
         'Ultra-soft fleece-lined knit cap and booties set for newborns.',
-    image: 'assets/images/baby_beanie.jpg',
+    image: 'assets/images/Merged shoes and more_9.jpg',
     reviewCount: 42,
     seller: 'TinyTots Store',
     price: 16.50,
@@ -147,7 +147,7 @@ final List<ProductModel> products = [
     title: 'High-Waisted Wide Leg Trousers',
     description:
         'Tailored high-rise trousers designed for formal and casual wear.',
-    image: 'assets/images/trousers.jpg',
+    image: 'assets/images/Merged shoes and more_14.jpg',
     reviewCount: 115,
     seller: 'Elegance Boutique',
     price: 68.99,
@@ -216,7 +216,7 @@ final List<ProductModel> products = [
     title: 'Citrus & Amber Eau De Toilette',
     description:
         'Refreshing summer citrus fragrance with warm woody base notes (50ml).',
-    image: 'assets/images/citrus_scent.jpg',
+    image: 'assets/images/Merged shoes and more_19.jpg',
     reviewCount: 88,
     seller: 'Aroma Essence',
     price: 62.00,
@@ -230,7 +230,7 @@ final List<ProductModel> products = [
     title: 'Vanilla Spice Reed Diffuser',
     description:
         'Home fragrance diffuser set with natural rattan reeds and essential oils.',
-    image: 'assets/images/reed_diffuser.jpg',
+    image: 'assets/images/Merged shoes and more_20.jpg',
     reviewCount: 190,
     seller: 'Aroma Essence',
     price: 28.50,

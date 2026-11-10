@@ -7,11 +7,11 @@ final String imagePath;
   });
 }
 List<CategoryModel> _categories = [
-  CategoryModel(title: "Baby Wears", imagePath: 'assets/images/pic.jpg'),
-  CategoryModel(title: "Female Wears", imagePath: 'assets/images/pic.jpg'),
-  CategoryModel(title: "Male Wears", imagePath: 'assets/images/pic.jpg'),
-  CategoryModel(title: "Jewelry", imagePath: 'assets/images/pic.jpg'),
-  CategoryModel(title: "Scents", imagePath: 'assets/images/pic.jpg'),
-  CategoryModel(title: "Shoes", imagePath: 'assets/images/pic.jpg'),
+  CategoryModel(title: "Baby Wears", imagePath: 'assets/images/Merged shoes and more_5.jpg'),
+  CategoryModel(title: "Female Wears", imagePath: 'assets/images/Merged shoes and more_21.jpg'),
+  CategoryModel(title: "Male Wears", imagePath: 'assets/images/Merged shoes and more_8.jpg'),
+  CategoryModel(title: "Jewelry", imagePath: 'assets/images/Merged shoes and more_7.jpg'),
+  CategoryModel(title: "Scents", imagePath: 'assets/images/Merged shoes and more_18.jpg'),
+  CategoryModel(title: "Shoes", imagePath: 'assets/images/Merged shoes and more_1.jpg'),
  ];
 List<CategoryModel> get categories => _categories;

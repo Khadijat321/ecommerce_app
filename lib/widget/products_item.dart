@@ -10,7 +10,7 @@ class ProductPage extends StatelessWidget{
   Widget build(BuildContext context){
   return
   GestureDetector(
-    onTap:(){Navigator.of(context).push(MaterialPageRoute(builder:(context)=> ProductDetails(),),);},
+    onTap:(){Navigator.of(context).push(MaterialPageRoute(builder:(context)=> ProductDetails(product:product,),),);},
   child:Stack(
     children:[
       Container(
