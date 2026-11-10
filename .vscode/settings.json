@@ -15,5 +15,6 @@
         "onchange",
         "Schyler"
     ],
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "cmake.sourceDirectory": "C:/Users/user/ecommerce_app/windows/runner"
 }
